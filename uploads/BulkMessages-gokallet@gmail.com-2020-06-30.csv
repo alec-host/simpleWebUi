@@ -1,0 +1,14 @@
+FAILED MESSAGE,,,,,,,,
+,,,,,,,,
+From,To,Message,Message Parts,Character Count,Cost Currency,Cost,Status,REMARK
+BetVantage,254757536015,5050,1,4,KES,0.4,Failed (DeliveryFailure),Airtel
+BetVantage,254757536015,5660,1,4,KES,0.4,Failed (DeliveryFailure),Airtel
+BetVantage,254757536015,5673,1,4,KES,0.4,Failed (DeliveryFailure),Airtel
+BetVantage,254757536015,8813,1,4,KES,0.4,Failed (DeliveryFailure),Airtel
+BetVantage,254759280389,7304,1,4,KES,0.4,Failed (DeliveryFailure),Safaricom
+BetVantage,254706320047,2105,1,4,KES,0.4,Failed (DeliveryFailure),Safaricom
+BetVantage,254111967822,1625,1,4,KES,0.4,Failed (DeliveryFailure),New Safaricom Prefix
+BetVantage,254111967822,6761,1,4,KES,0.4,Failed (DeliveryFailure),New Safaricom Prefix
+BetVantage,254111967822,3376,1,4,KES,0.4,Failed (DeliveryFailure),New Safaricom Prefix
+BetVantage,254111967822,5267,1,4,KES,0.4,Failed (DeliveryFailure),New Safaricom Prefix
+BetVantage,254111967822,2457,1,4,KES,0.4,Failed (DeliveryFailure),New Safaricom Prefix

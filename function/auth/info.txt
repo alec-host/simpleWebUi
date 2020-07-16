@@ -1,0 +1,4 @@
+<?
+$admin_user = 'betvantage_admin';
+$admin_pass = '!betvantage2018';
+?>
